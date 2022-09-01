@@ -10,7 +10,7 @@ use Magento\Catalog\Api\CategoryRepositoryInterface;
 use Magento\Framework\App\State;
 use Magento\Catalog\Api\CategoryLinkManagementInterface;
 
-class AddSimpleProduct2 implements DataPatchInterface
+class AddSimpleProduct implements DataPatchInterface
 {
     /**
      * @var ProductRepositoryInterface
